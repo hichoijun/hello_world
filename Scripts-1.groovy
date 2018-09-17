@@ -1,4 +1,4 @@
-artifactory('artifactory-caijun'){
+artifactory('artifactory1'){
    localRepository("docker-local") {
      packageType "docker"
      description "My local Docker registry"
